@@ -58,6 +58,7 @@ i would like to improve the javascript and to learn the css anmation in the furt
 ## Author
 
 - Website - [UVARAJAN_D](https://uvarajand.github.io/uvarajan/index.html)
+- live site -[solution](https://uvarajand.github.io/Frontend-Mentor-QR-code-component/).
 - Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
 <!-- - Twitter - [@yourusername](https://www.twitter.com/yourusername) -->
 
