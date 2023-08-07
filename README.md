@@ -21,14 +21,14 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](/images/screenshot_desktop.jpeg)
-![](/images/screenshot_mobile.jpeg)
+![screenshot_mobile view](/images/screenshot_mobile.jpeg)
+![screenshot_desktop_view](/images/screenshot_mobile.jpeg)
 
 
 ### Links
 
 - About me: [uvarajan.d](https://uvarajand.github.io/uvarajan/)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [site URL here](https://uvarajand.github.io/Frontend-Mentor-QR-code-component/)
 
 ## My process
 
